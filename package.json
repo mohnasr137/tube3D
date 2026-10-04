@@ -1,5 +1,5 @@
 {
-  "name": "tube3d",
+  "name": "tube-3d",
   "private": true,
   "version": "1.0.0",
   "description": "Interactive 3D neon tunnel fly-through simulation built with Three.js and Vite",

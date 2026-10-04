@@ -1,8 +1,8 @@
-# Tube3D - Neon Tunnel Fly-Through
+# tube-3d - Neon Tunnel Fly-Through
 
 An interactive, high-performance 3D sci-fi tunnel simulation built with **Three.js** and **Vite**. The application renders an endless camera fly-through along a 3D Catmull-Rom spline curve with glowing wireframe geometry, floating neon debris, and post-processing bloom effects.
 
-![Tube3D Preview](./home.png)
+![tube-3d Preview](./home.png)
 
 ---
 
@@ -22,7 +22,7 @@ An interactive, high-performance 3D sci-fi tunnel simulation built with **Three.
 ## 📁 Project Structure
 
 ```text
-tube3D/
+tube-3d/
 ├── index.html              # HTML entry point and canvas mount container
 ├── main.js                 # Application bootstrap & WebGL2 capability detection
 ├── style.css               # Full-screen styling, canvas reset, and theme
@@ -52,7 +52,7 @@ tube3D/
 
 1. Clone or navigate to the repository:
    ```bash
-   cd tube3D
+   cd tube-3d
    ```
 
 2. Install dependencies:

@@ -1,5 +1,5 @@
 /**
- * Tube3D Configuration
+ * tube-3d Configuration
  * Centralized settings for geometry, visuals, camera, and post-processing.
  */
 export const CONFIG = {
