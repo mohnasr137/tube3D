@@ -2,6 +2,8 @@
 
 An interactive, high-performance 3D sci-fi tunnel simulation built with **Three.js** and **Vite**. The application renders an endless camera fly-through along a 3D Catmull-Rom spline curve with glowing wireframe geometry, floating neon debris, and post-processing bloom effects.
 
+![Tube3D Preview](./home.png)
+
 ---
 
 ## ✨ Features
@@ -25,6 +27,7 @@ tube3D/
 ├── main.js                 # Application bootstrap & WebGL2 capability detection
 ├── style.css               # Full-screen styling, canvas reset, and theme
 ├── config.js               # Centralized visual, camera, and post-processing settings
+├── home.png                # Application preview screenshot
 ├── package.json            # Project metadata, scripts, and dependencies
 ├── .gitignore              # Git ignore rules for node_modules and builds
 ├── README.md               # Project documentation
